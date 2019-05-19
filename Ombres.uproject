@@ -13,11 +13,5 @@
 				"AIModule"
 			]
 		}
-	],
-	"Plugins": [
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		}
 	]
 }
